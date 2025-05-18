@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @FinDevOps-FT
+/src/backend/database.py      @FinDevOps-FT
+/src/backend/routers/auth.py  @FinDevOps-FT
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @FinDevOps-FT
